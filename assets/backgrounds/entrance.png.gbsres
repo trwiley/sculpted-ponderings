@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "89404f24-fbae-4f8c-92aa-a0455643190b",
+  "name": "entrance",
+  "symbol": "bg_entrance",
+  "tileColors": "",
+  "filename": "entrance.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

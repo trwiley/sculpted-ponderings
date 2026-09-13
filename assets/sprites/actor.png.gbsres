@@ -166,7 +166,7 @@
       ]
     }
   ],
-  "numTiles": 5,
+  "numTiles": 3,
   "canvasOriginX": 0,
   "canvasOriginY": 0,
   "canvasWidth": 16,
@@ -179,5 +179,5 @@
   "filename": "actor.png",
   "width": 48,
   "height": 16,
-  "checksum": "8646d62a30fe76f9e39e3dbdb23aab0182a33146"
+  "checksum": "d231c4db9ec464fbf0a03bbf0531a6dd6b7d8e73"
 }
