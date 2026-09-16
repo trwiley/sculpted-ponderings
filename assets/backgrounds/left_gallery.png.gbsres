@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "3c747ff7-b53b-4d2a-a1d9-169a9958fabf",
+  "name": "left_gallery",
+  "symbol": "bg_left_gallery",
+  "tileColors": "",
+  "filename": "left_gallery.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

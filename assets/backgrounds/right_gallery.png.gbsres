@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "922f20b8-71fa-4674-bf53-c267cdaff610",
+  "name": "right_gallery",
+  "symbol": "bg_right_gallery",
+  "tileColors": "",
+  "filename": "right_gallery.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
