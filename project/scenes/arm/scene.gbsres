@@ -1,0 +1,89 @@
+{
+  "_resourceType": "scene",
+  "id": "a3017281-3b9c-4707-8c10-a8f7c884229b",
+  "_index": 3,
+  "name": "Arm",
+  "backgroundId": "3b0c1209-0224-47f3-bb00-d318a1f6d7d0",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 360,
+  "y": 368,
+  "script": [
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "a"
+        ],
+        "override": true,
+        "__scriptTabs": "press"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "\"ARM\""
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "ba9226f9-f69f-4071-b96d-cb089e9949d7"
+          },
+          {
+            "command": "EVENT_SWITCH_SCENE",
+            "args": {
+              "sceneId": "bdbbc43d-efe9-4f3e-8b83-f2fa74ca44af",
+              "x": {
+                "type": "number",
+                "value": 3
+              },
+              "y": {
+                "type": "number",
+                "value": 6
+              },
+              "direction": "up",
+              "fadeSpeed": "2"
+            },
+            "id": "215303f4-621d-4faf-8f9c-c1fc41224508"
+          }
+        ]
+      },
+      "id": "11ccd2d9-6656-4331-a6ec-00a1dbd285d7"
+    },
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "714776f8-99ad-4baa-821f-fdc43b3ff05f"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": false
+}

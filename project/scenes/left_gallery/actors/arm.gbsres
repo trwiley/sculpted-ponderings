@@ -1,0 +1,47 @@
+{
+  "_resourceType": "actor",
+  "id": "d1189777-8711-4734-9eb5-ce084dbcae7e",
+  "name": "Arm",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "ebceeb0f-18f1-460b-9594-63b343e4acbb",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_0",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "a3017281-3b9c-4707-8c10-a8f7c884229b",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "e51a8828-c263-4acb-99b7-5a49c001cef7"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 3,
+  "y": 4,
+  "_index": 0
+}

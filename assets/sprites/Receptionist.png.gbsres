@@ -1,0 +1,160 @@
+{
+  "_resourceType": "sprite",
+  "id": "52fae817-ec38-415e-96f7-175bed973997",
+  "name": "Receptionist",
+  "symbol": "sprite_receptionist",
+  "states": [
+    {
+      "id": "7cd3fa13-d2e6-4b2c-b0d0-ee70e2d51de0",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "3aeb8f74-e3f2-4560-a52d-140f99e2d271",
+          "frames": [
+            {
+              "id": "64b0ca47-205f-4375-9e4b-b52ac8f5bffa",
+              "tiles": [
+                {
+                  "id": "8e27a808-9c70-4f13-a9ee-69bf664c0cf8",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9dd0edbd-20a5-4ef5-8742-28ddcb69a65e",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "019690f7-7121-4cd3-b96e-9d7c21af0e5c",
+              "tiles": [
+                {
+                  "id": "cbab1e10-50a0-4fde-b777-3f265bcdbdcd",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "6583d65e-7f28-429b-ae55-2380517c7f9b",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a2100015-00a2-4ff2-bd5d-5fa7f07d637c",
+          "frames": [
+            {
+              "id": "2e08b91c-5392-4f5c-9537-2c54591e5f81",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "036bf445-c2ed-4081-9611-5256ea2399b9",
+          "frames": [
+            {
+              "id": "b3211e71-51b2-4eea-a39a-5292f4acc02c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c580cf64-814c-43b7-aea3-7da26b8b9dd6",
+          "frames": [
+            {
+              "id": "f4d8e300-c239-4c04-993d-ea86e937b320",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "34c5c8ef-c33d-4f8c-a47c-3f6c8d235028",
+          "frames": [
+            {
+              "id": "b9c75478-c726-4d7a-a537-9e68f5646b61",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0a45caf7-03f3-4220-9017-1950c7c872ba",
+          "frames": [
+            {
+              "id": "6b0a9bce-b2d1-4d9a-8ced-d2bcb99327e0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "997985d5-5aaf-4a85-9164-84f6819f3cac",
+          "frames": [
+            {
+              "id": "b626f719-4e70-40ad-b28e-7cc8471b72af",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a473d1f8-5401-41c4-a5ce-720d3199b9be",
+          "frames": [
+            {
+              "id": "4b6655b6-c269-4c09-a906-557266c39d54",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "Receptionist.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "2d10c1cc4baa980587e4025bab4eb6b546aeb786"
+}
