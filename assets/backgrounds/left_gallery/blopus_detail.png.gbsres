@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "44951502-00ad-442b-9a37-6344e812a236",
+  "name": "left_gallery/blopus_detail",
+  "symbol": "bg_blopus_detail",
+  "tileColors": "",
+  "filename": "left_gallery/blopus_detail.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

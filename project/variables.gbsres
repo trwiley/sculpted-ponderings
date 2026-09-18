@@ -1,5 +1,11 @@
 {
   "_resourceType": "variables",
-  "variables": [],
+  "variables": [
+    {
+      "id": "0",
+      "name": "artwork_name",
+      "symbol": "var_artwork_name"
+    }
+  ],
   "constants": []
 }

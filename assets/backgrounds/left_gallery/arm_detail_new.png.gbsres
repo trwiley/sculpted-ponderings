@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "693d2f81-d914-4479-8c63-468970e49b6d",
+  "name": "left_gallery/arm_detail_new",
+  "symbol": "bg_left_gallery_arm_detail_",
+  "tileColors": "",
+  "filename": "left_gallery/arm_detail_new.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
