@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "72d59ba0-f6a9-42eb-97f3-9d8f21e8f514",
+  "name": "right_gallery/smemb-sprite",
+  "symbol": "sprite_right_gallery_smemb_",
+  "states": [
+    {
+      "id": "24daff62-c3c8-41e9-9b11-30cad5b19a55",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "f4b52e4e-7c53-4ba0-ac93-4e0240203356",
+          "frames": [
+            {
+              "id": "5d16603b-e1b9-405d-a8d3-d3958fbfdce0",
+              "tiles": [
+                {
+                  "id": "11cb6f8d-fedf-407e-bb26-96b3073877ed",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9f48333d-33e6-4fe5-99b7-11bb670d7599",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3113161a-a752-4a41-ada7-cde56831fa01",
+          "frames": [
+            {
+              "id": "6043992d-8cc4-4b15-a0ec-750d83ef2ec4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f695da9c-042e-4472-9744-5718226291fc",
+          "frames": [
+            {
+              "id": "ec01fd71-02b3-4f3c-8a46-e18189037b86",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7082febe-1be9-4d3b-9cbc-276c878b878b",
+          "frames": [
+            {
+              "id": "447d57ab-5fc7-43c7-a06c-77c72166b0a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c34faef4-a78f-45e9-946d-ba8579d7239f",
+          "frames": [
+            {
+              "id": "d28d4a14-1dd9-4844-b45f-d9d524a8aca3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15c1581d-7db2-4290-8c37-da57a42ad2ce",
+          "frames": [
+            {
+              "id": "06d1924e-89d3-479b-b12e-1d2764d7ac4a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0e65c608-3b1f-4c9e-994f-c1f3cfc23b91",
+          "frames": [
+            {
+              "id": "c4bb9a7d-a08e-4619-aea1-d2642a8c9362",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a683f0aa-c0f3-4d54-ac04-4bb5dea3fc25",
+          "frames": [
+            {
+              "id": "196d979b-47f8-4f28-ad95-6f4e1a13f1e5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "right_gallery/smemb-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "8114f89cb2af18be9eddaea4a4b0f56bc4f48245"
+}

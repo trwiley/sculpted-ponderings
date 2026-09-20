@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "87b7c267-4be7-418c-b917-bde795b050dd",
+  "name": "Skunk",
+  "symbol": "sprite_skunk",
+  "states": [
+    {
+      "id": "2dca25c6-1869-44dd-9772-bb8588c79b69",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "50bc3aa1-903d-490d-aa4a-8bd5f6e5a727",
+          "frames": [
+            {
+              "id": "5a25d5f2-d65c-472d-a7a7-627848e01233",
+              "tiles": [
+                {
+                  "id": "169d8221-72fd-49cd-b272-f633b79ef57c",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "f2cce864-cb32-4715-829e-d4ff2271117f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b8ce8dcd-7172-4b7e-9165-a749eef7a330",
+          "frames": [
+            {
+              "id": "53c22e57-8d1a-4c4b-bee8-4aae620c0d19",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "41e7fb87-63dc-415c-a95b-3df5a18c668b",
+          "frames": [
+            {
+              "id": "978b39d9-0f14-4b9c-879a-8f93fa548b52",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2befc4fe-8b47-45ba-a627-7ce592ebaffc",
+          "frames": [
+            {
+              "id": "fa748c8e-7a52-4d8d-a477-1afb6345db7a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aef4549a-5b5b-4765-88d7-b0518a617b95",
+          "frames": [
+            {
+              "id": "43c95a3b-d22a-479e-91df-1f2bc54b91e3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e30b6f3-8c29-45c6-bb47-05abce41495a",
+          "frames": [
+            {
+              "id": "d5add846-034b-4c3a-92a2-eea1f599a5fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "95276d07-1fb6-4ac0-aba3-ec01499b659b",
+          "frames": [
+            {
+              "id": "a22132b2-11fc-495a-a264-f25f18f24cf9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "44a0a082-083f-41ec-8a93-4571a0f1b4c4",
+          "frames": [
+            {
+              "id": "4c66a71a-2c0e-4f56-a86e-4ff617a8e1ca",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "left_gallery/Skunk.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "2cf52296e22dbd0e5f06eefdab9c74c8b352c50b"
+}

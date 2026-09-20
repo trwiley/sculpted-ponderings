@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "ef6637a1-51da-452e-bd1a-05b9c6af7dbb",
+  "name": "Plopus",
+  "symbol": "sprite_plopus",
+  "states": [
+    {
+      "id": "dab0fdd9-6bc7-4e7d-9104-a11fa5244638",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "8681286a-e042-40b4-addb-371cd79472b0",
+          "frames": [
+            {
+              "id": "efa4269a-003d-46d3-8366-7fa027a37f0e",
+              "tiles": [
+                {
+                  "id": "83358a36-02eb-4a86-be9e-491cf350ede6",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "278f0a42-e776-4b08-a7e4-9b98c2a97096",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c4934bb-5ec4-4612-aecb-fc7b077da291",
+          "frames": [
+            {
+              "id": "9725445e-f308-4aa2-a0b6-e577f82cdf9d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0e65e221-22df-4926-9fe8-60f9bb0acfa6",
+          "frames": [
+            {
+              "id": "53ce7d34-22c0-4293-9c4b-9128ee55103b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "212f6d5e-feab-4d69-bc0f-87895ee53644",
+          "frames": [
+            {
+              "id": "a9c12232-02a9-4a52-8474-6144e243ee72",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "59c5e14a-c5eb-4ec5-8056-2969955011a4",
+          "frames": [
+            {
+              "id": "6c167956-c6da-493d-b6e7-44a88be06622",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d33d56cf-58d2-480c-89f1-02b637227e78",
+          "frames": [
+            {
+              "id": "ebeb5688-c6d5-433b-a749-082b895761ff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec2123f4-917c-4467-a0dc-6f6d8da53f5d",
+          "frames": [
+            {
+              "id": "49835967-dc47-4506-a0ea-8fe918497b5c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0e40aec8-18fa-4c8b-8229-f8770c21314a",
+          "frames": [
+            {
+              "id": "f4a67772-505d-4524-bea0-736bf200bcb5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "left_gallery/Plopus.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "0009b771b390efdfb2e7d3d1ad4342e078cf3f70"
+}

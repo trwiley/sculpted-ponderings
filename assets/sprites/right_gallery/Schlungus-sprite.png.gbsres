@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "ac5dcd2b-fc2d-4ebb-ad94-a7eb25d5e16b",
+  "name": "right_gallery/Schlungus-sprite",
+  "symbol": "sprite_right_gallery_schlun",
+  "states": [
+    {
+      "id": "9ef0849f-a69d-4086-85dd-2ab8af426af7",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "62f54213-2c85-4be8-a7d0-db226806403d",
+          "frames": [
+            {
+              "id": "3cb21aa3-dffd-45d1-8f62-79f63ba8fe79",
+              "tiles": [
+                {
+                  "id": "ac9e146f-9774-42c2-87ef-4b1cd6b9e0df",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "65cd3479-1571-4f0a-86e4-1628139e21ed",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4175e644-0942-4847-8fad-c7618dacb012",
+          "frames": [
+            {
+              "id": "56fe1810-85b1-4564-a8d5-bb77e9a6119d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "85e07253-0490-4a22-af5a-78826a6f68ec",
+          "frames": [
+            {
+              "id": "7b731f30-53a4-4419-97bb-18ea73401a3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bb0af822-6c95-4dbb-87c0-9e634df59833",
+          "frames": [
+            {
+              "id": "347315c1-4a05-4a26-9b41-47d6351d4064",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3bb78836-be3d-4fee-9b3f-ec010001c34e",
+          "frames": [
+            {
+              "id": "0f2c018f-134f-4c04-b7dd-d159cc68b37e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4b2842d-e5bd-40ab-947c-5c6d61f339ca",
+          "frames": [
+            {
+              "id": "5136deee-df45-4a6c-b43e-2ec77128bb2a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b2ef73e-21e8-4c71-b9d7-1d7c3a0d0197",
+          "frames": [
+            {
+              "id": "de7057c4-dfbf-44c5-a821-ce283ee357b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e521f29-eb6b-4770-a4c2-5fcc23f3e452",
+          "frames": [
+            {
+              "id": "f7983b5a-7ccb-4eb2-947c-f4d165a2251f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "right_gallery/Schlungus-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "e4f3ab69d000de260e919196276cf7c33c506b3c"
+}

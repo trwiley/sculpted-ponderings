@@ -1,23 +1,23 @@
 {
   "_resourceType": "sprite",
-  "id": "87b7c267-4be7-418c-b917-bde795b050dd",
-  "name": "Skunk",
-  "symbol": "sprite_skunk",
+  "id": "ebceeb0f-18f1-460b-9594-63b343e4acbb",
+  "name": "Arm",
+  "symbol": "sprite_arm",
   "states": [
     {
-      "id": "2dca25c6-1869-44dd-9772-bb8588c79b69",
+      "id": "ae8dcebc-de23-40ff-a08f-d84808e12dc6",
       "name": "",
       "animationType": "fixed",
       "flipLeft": false,
       "animations": [
         {
-          "id": "50bc3aa1-903d-490d-aa4a-8bd5f6e5a727",
+          "id": "e565b877-21c3-4906-b93b-c748a8957a41",
           "frames": [
             {
-              "id": "5a25d5f2-d65c-472d-a7a7-627848e01233",
+              "id": "c39e0332-cb15-4d77-9508-1f55a7192653",
               "tiles": [
                 {
-                  "id": "169d8221-72fd-49cd-b272-f633b79ef57c",
+                  "id": "6a915ee1-0a5a-4672-8796-676a2a0be2b1",
                   "x": 0,
                   "y": 0,
                   "sliceX": 0,
@@ -30,7 +30,7 @@
                   "priority": false
                 },
                 {
-                  "id": "f2cce864-cb32-4715-829e-d4ff2271117f",
+                  "id": "fe31279e-4b57-4402-8465-7be1c79420db",
                   "x": 8,
                   "y": 0,
                   "sliceX": 8,
@@ -47,64 +47,64 @@
           ]
         },
         {
-          "id": "b8ce8dcd-7172-4b7e-9165-a749eef7a330",
+          "id": "0fa1470c-3687-4a95-9e26-8ad956fcd25c",
           "frames": [
             {
-              "id": "53c22e57-8d1a-4c4b-bee8-4aae620c0d19",
+              "id": "dabf16f9-6d83-409a-a98f-d40a535a46c5",
               "tiles": []
             }
           ]
         },
         {
-          "id": "41e7fb87-63dc-415c-a95b-3df5a18c668b",
+          "id": "9de80ccf-d7cf-4378-a827-6dc5c86e13f1",
           "frames": [
             {
-              "id": "978b39d9-0f14-4b9c-879a-8f93fa548b52",
+              "id": "515a8741-d2e6-45de-9f42-1c18afc3c2e9",
               "tiles": []
             }
           ]
         },
         {
-          "id": "2befc4fe-8b47-45ba-a627-7ce592ebaffc",
+          "id": "0a58bb6c-1421-4c98-b276-618e092fa144",
           "frames": [
             {
-              "id": "fa748c8e-7a52-4d8d-a477-1afb6345db7a",
+              "id": "3b279598-d1a8-4c4b-a784-1c706db25bb6",
               "tiles": []
             }
           ]
         },
         {
-          "id": "aef4549a-5b5b-4765-88d7-b0518a617b95",
+          "id": "93c3660d-8c2f-4b94-911b-99354fd79a6f",
           "frames": [
             {
-              "id": "43c95a3b-d22a-479e-91df-1f2bc54b91e3",
+              "id": "a76bd7ac-cf4b-4284-b053-b32216cc5100",
               "tiles": []
             }
           ]
         },
         {
-          "id": "9e30b6f3-8c29-45c6-bb47-05abce41495a",
+          "id": "38d39540-8e90-4c7d-a499-37d1f4e7115d",
           "frames": [
             {
-              "id": "d5add846-034b-4c3a-92a2-eea1f599a5fa",
+              "id": "e3c90928-b5ae-41b9-86e4-0f078f70d68c",
               "tiles": []
             }
           ]
         },
         {
-          "id": "95276d07-1fb6-4ac0-aba3-ec01499b659b",
+          "id": "5114e126-5b9c-4eac-b7c4-87f53f8d626c",
           "frames": [
             {
-              "id": "a22132b2-11fc-495a-a264-f25f18f24cf9",
+              "id": "6a7efd50-c6f1-4f11-806a-ca1c14822cbc",
               "tiles": []
             }
           ]
         },
         {
-          "id": "44a0a082-083f-41ec-8a93-4571a0f1b4c4",
+          "id": "d2c02e86-67c2-4a37-8075-7a11f4b64087",
           "frames": [
             {
-              "id": "4c66a71a-2c0e-4f56-a86e-4ff617a8e1ca",
+              "id": "1ed34337-a75c-4d45-830b-b1137b6fd79c",
               "tiles": []
             }
           ]
@@ -122,8 +122,8 @@
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
-  "filename": "Skunk.png",
+  "filename": "left_gallery/Arm.png",
   "width": 16,
   "height": 16,
-  "checksum": "2cf52296e22dbd0e5f06eefdab9c74c8b352c50b"
+  "checksum": "dabf2f54be0aa9d22514623feadbc61bde42ac6b"
 }
