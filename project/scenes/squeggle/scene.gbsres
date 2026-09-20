@@ -1,28 +1,28 @@
 {
   "_resourceType": "scene",
-  "id": "caac787c-a488-4ddb-9e1e-15f2be80f07c",
-  "_index": 7,
-  "name": "Squnk",
-  "backgroundId": "2847bfdb-732d-4d19-a3b4-9d97b2afa796",
+  "id": "2abc4585-2ce1-4d5c-a399-c97ec6ee41bd",
+  "_index": 11,
+  "name": "Squeggle",
+  "backgroundId": "6189ffd5-98ed-4ac4-b7df-92381adfeec9",
   "tilesetId": "",
   "width": 20,
   "height": 18,
-  "type": "TOPDOWN",
+  "type": "POINTNCLICK",
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
   "collisions": "",
   "autoFadeSpeed": 1,
-  "symbol": "scene_8",
-  "x": 272,
-  "y": 656,
+  "symbol": "scene_12",
+  "x": 1333.5,
+  "y": 508.5,
   "script": [
     {
       "command": "EVENT_ACTOR_HIDE",
       "args": {
         "actorId": "$self$"
       },
-      "id": "1021255b-27e9-4cfe-a99e-6c0d49c3a51d"
+      "id": "2178d598-d720-44b8-8cd2-2401dbc444e4"
     },
     {
       "command": "EVENT_SET_INPUT_SCRIPT",
@@ -39,7 +39,7 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "\"SQUNK\""
+                "\"SQUEGGLE\""
               ],
               "__section": "text",
               "avatarId": "",
@@ -58,28 +58,28 @@
               "closeDelayTime": 0.5,
               "closeDelayFrames": 30
             },
-            "id": "da30455e-dc4c-49be-b4f3-b67407c54c27"
+            "id": "1011d16b-51c9-418a-8417-ea49fe3fd026"
           },
           {
             "command": "EVENT_SWITCH_SCENE",
             "args": {
-              "sceneId": "bdbbc43d-efe9-4f3e-8b83-f2fa74ca44af",
+              "sceneId": "08b9fb08-a6d4-4b36-a74b-5169e9e0334a",
               "x": {
                 "type": "number",
-                "value": 14
+                "value": 9
               },
               "y": {
                 "type": "number",
-                "value": 14
+                "value": 16
               },
               "direction": "up",
               "fadeSpeed": "2"
             },
-            "id": "d76f6951-4003-4f0e-9d19-d632e037bf2f"
+            "id": "31239da7-718e-43b1-8654-0d4cf35b2cca"
           }
         ]
       },
-      "id": "c80d41c1-4a02-49bf-a65b-5038d11260c9"
+      "id": "a35d90b2-853e-4d51-b37e-2ce8bcc913cb"
     }
   ],
   "playerHit1Script": [],

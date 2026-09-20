@@ -16,7 +16,25 @@
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "symbol": "actor_6",
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "988d4abd-0c02-4758-831a-999c113e1aaa",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "6a95502a-a958-4855-915a-b6bbc5530cbe"
+    }
+  ],
   "startScript": [],
   "updateScript": [],
   "hit1Script": [],

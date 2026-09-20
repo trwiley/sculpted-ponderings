@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "dfffe7a8-68a6-4529-b1aa-c2bcdae9acf2",
+  "name": "right_gallery/hole_eye_detail",
+  "symbol": "bg_right_gallery_hole_eye_d",
+  "tileColors": "",
+  "filename": "right_gallery/hole_eye_detail.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

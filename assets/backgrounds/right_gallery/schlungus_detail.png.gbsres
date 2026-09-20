@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "73f5783f-955e-4fb9-b552-efc103922cf0",
+  "name": "right_gallery/schlungus_detail",
+  "symbol": "bg_right_gallery_schlungus_",
+  "tileColors": "",
+  "filename": "right_gallery/schlungus_detail.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "08433fd6-cb6d-428d-bc47-53fdaf7107f3",
+  "name": "right_gallery/smemb_detail",
+  "symbol": "bg_right_gallery_smemb_deta",
+  "tileColors": "",
+  "filename": "right_gallery/smemb_detail.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
