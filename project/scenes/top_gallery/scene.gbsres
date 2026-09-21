@@ -11,7 +11,7 @@
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "0f28+00!0f!0010+0f!002+0f!0010+0f!00b6+0f!0010+0f!002+0f!0010+0f!001c+0f!004+0f!00e+0f!004+0f!007+",
   "autoFadeSpeed": 1,
   "symbol": "scene_14",
   "x": 832,
