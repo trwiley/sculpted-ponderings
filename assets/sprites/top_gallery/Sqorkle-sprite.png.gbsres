@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "82cad028-0c92-48a1-8477-be169ef4e3b6",
+  "name": "top_gallery/Sqorkle-sprite",
+  "symbol": "sprite_top_gallery_sqorkle_",
+  "states": [
+    {
+      "id": "62893797-a8b6-4b02-8b17-dbd85b52e6d3",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "cd741900-5b1e-43fa-83c0-f23e2c08f957",
+          "frames": [
+            {
+              "id": "2e39c071-906a-480f-9273-94a9289988e3",
+              "tiles": [
+                {
+                  "id": "1cdd6182-112b-465e-9c1d-ed1cd5ce574e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3fe32ed6-9413-4d4d-91ec-c86f40a46206",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "99d19647-1d70-4303-bfd8-a8ee6d05ee54",
+          "frames": [
+            {
+              "id": "30cc1c83-5e94-4977-aa50-35f0f04bc99b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c1521e51-d588-443b-b354-2a17da922932",
+          "frames": [
+            {
+              "id": "00a5e428-0390-4cbc-acd0-0bd1f10984c1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8053353e-4bbd-4309-8126-1ece5e462d92",
+          "frames": [
+            {
+              "id": "ee1b4b1f-ab86-4ad9-bd15-413fcaa7af1c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4754816-8730-47be-8236-91fd44fa6601",
+          "frames": [
+            {
+              "id": "e3ce740e-70ff-4fe1-8f53-da1fa78b1366",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "60667d47-b454-4ab3-890e-d4cedebf355b",
+          "frames": [
+            {
+              "id": "7ba0e987-4566-462a-bea4-5df162c5b4c1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b97d3dba-4d32-40f0-9311-c495a13384da",
+          "frames": [
+            {
+              "id": "c4ed57c0-44ee-4968-9109-0f9f64d9fa03",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b8c50fde-91fb-4ac1-b8d7-3e77fcdb14ce",
+          "frames": [
+            {
+              "id": "58074b58-7d2c-42f2-a808-e37d430a519e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "top_gallery/Sqorkle-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "42c449a3c97b7a81e762400d75e4b62930aa643d"
+}

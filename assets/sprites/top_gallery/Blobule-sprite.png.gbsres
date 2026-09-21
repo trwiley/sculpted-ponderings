@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "3de3751d-5ac5-4be2-af5c-3359f3dff5b0",
+  "name": "top_gallery/Blobule-sprite",
+  "symbol": "sprite_top_gallery_blobule_",
+  "states": [
+    {
+      "id": "8cad0e44-ca3e-4184-a7a1-dc86d9de81ea",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "61783074-3784-4013-805c-bb1c0f1a4936",
+          "frames": [
+            {
+              "id": "a0a359ce-92c4-4edd-844a-dc1b5fff8015",
+              "tiles": [
+                {
+                  "id": "fee3b7f9-57bb-4e36-a644-8d1126800ac8",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "27ff52b0-d71a-4389-81b8-446ee4f788ba",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fc5656ad-0bdb-41bc-9968-595fc65f8a4b",
+          "frames": [
+            {
+              "id": "500da145-e447-4b03-887b-ab27b2467cb8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8fe63c1d-6846-46e9-ba2d-5e0695381170",
+          "frames": [
+            {
+              "id": "b8d49f9b-71d2-493a-bb7e-ecd4d121cb51",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b0d4907-5ee9-40d8-aa28-fb81b4bf5a99",
+          "frames": [
+            {
+              "id": "b87dd0c7-99ea-4af2-a732-3576c51137b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c256a2a3-f480-4130-9e3b-f27014ba195c",
+          "frames": [
+            {
+              "id": "5fd79a91-9879-42c9-ac0a-3532e15fc86c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5b76a023-cf42-4c82-b550-ec45a3d70c7f",
+          "frames": [
+            {
+              "id": "65b52459-368e-496e-bf3a-2399b2a88575",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27d9572c-d22d-4598-a902-e2d51d6723d7",
+          "frames": [
+            {
+              "id": "d4969636-10db-4c38-b1d7-2d8f323ff0dd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6bf5c76c-131e-4c90-85fb-49e330a8b6ce",
+          "frames": [
+            {
+              "id": "aacf7fcc-ec56-4979-8408-c7f506c8c468",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "top_gallery/Blobule-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "a23fa082867f6802fbe04dd10240eb0c42d1b0dd"
+}

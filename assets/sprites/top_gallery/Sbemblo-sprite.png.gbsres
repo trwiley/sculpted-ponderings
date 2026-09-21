@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "46d23b7f-739d-4f4b-8c8e-2e988ca6a28e",
+  "name": "top_gallery/Sbemblo-sprite",
+  "symbol": "sprite_top_gallery_sbemblo_",
+  "states": [
+    {
+      "id": "3538e9b8-b950-40ac-b050-0557b45b44d5",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "7e5e8ead-3ec2-4e62-898c-94b1945402ec",
+          "frames": [
+            {
+              "id": "be2aaeac-8c3d-4ba6-a37e-cef84beefc3c",
+              "tiles": [
+                {
+                  "id": "a5ebd03e-e2b0-4c7b-b56a-fd6dc7135b0d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "1b424cc7-4bec-4650-89f7-6f47951025bc",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "52490f06-b5a6-46fd-8318-55ad2c0a4ecf",
+          "frames": [
+            {
+              "id": "5f99b323-1f54-431f-b930-06c689945a53",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2e3a923-b5aa-44c0-9d19-0f26ec121855",
+          "frames": [
+            {
+              "id": "206bf0e4-d202-4e56-82c0-c0e4be039dfd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4dbed86-fb92-43d8-aeea-989639ab92fe",
+          "frames": [
+            {
+              "id": "7bf5b2ed-e6c9-4fb6-bc32-949ea4624cb2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf135382-cf2a-468b-8151-906b0d4d4ed8",
+          "frames": [
+            {
+              "id": "3d883708-9d9c-409a-9b26-01bdc9d4d6bc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23b751b0-72f5-4c80-8083-a324d760f38b",
+          "frames": [
+            {
+              "id": "dab39c8d-7cca-4360-908f-99e69965fe97",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b71a02c6-80ff-47a0-997d-e4790158142d",
+          "frames": [
+            {
+              "id": "ab9f2173-3506-4ee2-8956-b04ed17b14da",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc50394f-7c18-4b12-89ec-9793785801b3",
+          "frames": [
+            {
+              "id": "02a46d69-e759-4aba-99c9-b8cd6a3d25a6",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "top_gallery/Sbemblo-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "c9772e6f6afea3b2f05d26811c0b303f8bb66050"
+}

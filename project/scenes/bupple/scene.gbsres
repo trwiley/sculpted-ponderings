@@ -1,28 +1,28 @@
 {
   "_resourceType": "scene",
-  "id": "3f3d69b2-7379-4266-97d6-9d0aa0b720aa",
-  "_index": 10,
-  "name": "Smemb",
-  "backgroundId": "08433fd6-cb6d-428d-bc47-53fdaf7107f3",
+  "id": "832e8045-4be6-4e65-afd2-d3c7139d0602",
+  "_index": 15,
+  "name": "Bupple",
+  "backgroundId": "dd7e30c9-992d-4e80-bd0e-cee543c83c6d",
   "tilesetId": "",
   "width": 20,
   "height": 18,
-  "type": "POINTNCLICK",
+  "type": "TOPDOWN",
   "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
   "collisions": "",
   "autoFadeSpeed": 1,
-  "symbol": "scene_11",
-  "x": 1288,
-  "y": 528,
+  "symbol": "scene_16",
+  "x": 712,
+  "y": 40,
   "script": [
     {
       "command": "EVENT_ACTOR_HIDE",
       "args": {
         "actorId": "$self$"
       },
-      "id": "5d06c243-0fc6-47ad-8f8b-63e12d8ea915"
+      "id": "46c673e1-0e64-476b-b04d-eac26d945890"
     },
     {
       "command": "EVENT_SET_INPUT_SCRIPT",
@@ -39,7 +39,7 @@
             "command": "EVENT_TEXT",
             "args": {
               "text": [
-                "\"SMEMB\""
+                "\"BUPPLE\""
               ],
               "__section": "text",
               "avatarId": "",
@@ -58,28 +58,28 @@
               "closeDelayTime": 0.5,
               "closeDelayFrames": 30
             },
-            "id": "15714967-72b2-480e-8289-c6cc1413848f"
+            "id": "7851be88-25cc-4ab0-80bf-f0309af7bea7"
           },
           {
             "command": "EVENT_SWITCH_SCENE",
             "args": {
-              "sceneId": "08b9fb08-a6d4-4b36-a74b-5169e9e0334a",
+              "sceneId": "5edb5b3b-0b98-417c-a4d6-4bab895e335a",
               "x": {
                 "type": "number",
-                "value": 4
+                "value": 16
               },
               "y": {
                 "type": "number",
-                "value": 16
+                "value": 15
               },
               "direction": "up",
               "fadeSpeed": "2"
             },
-            "id": "6a603907-2d6d-428b-ac70-80a3148fea08"
+            "id": "f3301dc2-30e6-4e1c-a101-fffe1ba3c26d"
           }
         ]
       },
-      "id": "6aec1f2f-3c08-4283-9665-4fc019e431d5"
+      "id": "5ac97c70-c515-4b58-a5cd-64fd24ddea11"
     }
   ],
   "playerHit1Script": [],

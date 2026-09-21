@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "c1e815dc-4fdb-43a7-9ec8-fb23c4183604",
+  "name": "top_gallery/sbemblo_display",
+  "symbol": "bg_top_gallery_sbemblo_disp",
+  "tileColors": "",
+  "filename": "top_gallery/sbemblo_display.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

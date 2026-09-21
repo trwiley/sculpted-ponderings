@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "b5cf0596-60a5-4071-ae06-2de381845375",
+  "name": "top_gallery",
+  "symbol": "bg_top_gallery",
+  "tileColors": "",
+  "filename": "top_gallery.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}

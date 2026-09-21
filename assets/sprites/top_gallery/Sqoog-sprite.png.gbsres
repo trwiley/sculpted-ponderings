@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "611abae2-8261-4b38-a6a4-f265d168bbce",
+  "name": "top_gallery/Sqoog-sprite",
+  "symbol": "sprite_top_gallery_sqoog_sp",
+  "states": [
+    {
+      "id": "85294863-9d48-4beb-bf32-e1406ada5df6",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "12d238ea-e9c5-4a1d-8a0c-d3120c2879f6",
+          "frames": [
+            {
+              "id": "1df9eb41-7eb0-472e-a78f-d8782da4df17",
+              "tiles": [
+                {
+                  "id": "5cb5d79a-c509-4792-8a4f-f21f89453173",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "7b246373-ac70-401a-b49a-e5e89547e08d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c80ce7f-367f-4556-bf6e-99087570b496",
+          "frames": [
+            {
+              "id": "24fb63c5-d6b6-4e05-9e48-e4f260d593c3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b536fbdf-4993-468d-ad32-ddd59171a579",
+          "frames": [
+            {
+              "id": "58a333b0-270c-4ce6-9297-4bf645fefe61",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0c5ce56a-a6cb-43cf-9190-24aa21890f2c",
+          "frames": [
+            {
+              "id": "947a7910-ce7d-4a63-8ab8-8f47d8583124",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f2e6128-e809-4b64-99aa-1f4b52a2edbb",
+          "frames": [
+            {
+              "id": "585c1aa6-b4f7-437e-97e9-d53d42d09a00",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "241924e9-9ea0-4885-a1ee-cbb2d943f87d",
+          "frames": [
+            {
+              "id": "44f06c9e-3dad-43e3-8227-5a419c590ebf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c573fff4-4f49-4b99-97c6-0041b3a5c937",
+          "frames": [
+            {
+              "id": "a21c2269-2d3d-4ed0-ba68-098e8a64cb7b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "20eab77a-10c6-41ac-a72c-396b2ddc10da",
+          "frames": [
+            {
+              "id": "3601a0d6-75da-4ef5-82b6-0164d0a774b5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "top_gallery/Sqoog-sprite.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "24bfc4b5f8256b4f8e841688c1ec0bb1a32e83e9"
+}

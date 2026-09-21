@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0f6132cf-b5e8-442c-8d03-26f66a408eab",
+  "name": "top_gallery/blobule_display",
+  "symbol": "bg_top_gallery_blobule_disp",
+  "tileColors": "",
+  "filename": "top_gallery/blobule_display.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
