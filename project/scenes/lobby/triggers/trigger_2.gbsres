@@ -1,48 +1,67 @@
 {
   "_resourceType": "trigger",
-  "id": "f11adb91-d568-4589-ba43-57e25a2af9e7",
+  "id": "7638a4d1-107c-4792-9c14-def132f0ef31",
   "name": "",
   "prefabId": "",
-  "x": 0,
-  "y": 11,
-  "symbol": "trigger_1",
+  "x": 2,
+  "y": 7,
+  "symbol": "trigger_0",
   "prefabScriptOverrides": {},
-  "width": 1,
-  "height": 2,
+  "width": 2,
+  "height": 1,
   "script": [
     {
-      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "command": "EVENT_SET_INPUT_SCRIPT",
       "args": {
-        "actorId": "$self$",
-        "direction": {
-          "type": "direction",
-          "value": "left"
-        },
-        "__collapseElse": true
+        "input": [
+          "a"
+        ],
+        "override": true,
+        "__scriptTabs": "press"
       },
       "children": {
         "true": [
           {
-            "command": "EVENT_SWITCH_SCENE",
+            "command": "EVENT_SOUND_PLAY_EFFECT",
             "args": {
-              "sceneId": "bdbbc43d-efe9-4f3e-8b83-f2fa74ca44af",
-              "x": {
-                "type": "number",
-                "value": 18
-              },
-              "y": {
-                "type": "number",
-                "value": 12
-              },
-              "direction": "left",
-              "fadeSpeed": "2"
+              "type": "f09e33b7-ae6b-4aea-8b00-790c4e79f6c0",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0
             },
-            "id": "9f90c4bd-f2de-4b91-836b-59e72f0068ee"
+            "id": "1af5fa81-2b9a-4038-a143-a821243ead73"
+          },
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "Welcome!"
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "083049aa-6ef0-4602-a79d-eb5febc5b83a"
           }
-        ],
-        "false": []
+        ]
       },
-      "id": "733091fe-0970-401a-913f-94f2f4714fcb"
+      "id": "6b65da14-9af3-494e-9255-d3ca71cdddea"
     }
   ],
   "leaveScript": [],

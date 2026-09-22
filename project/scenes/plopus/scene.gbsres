@@ -37,6 +37,19 @@
       "children": {
         "true": [
           {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "f09e33b7-ae6b-4aea-8b00-790c4e79f6c0",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0
+            },
+            "id": "419dd281-9789-4f27-9e26-5c7a90c79d48"
+          },
+          {
             "command": "EVENT_TEXT",
             "args": {
               "text": [
