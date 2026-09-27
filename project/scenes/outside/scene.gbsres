@@ -16,7 +16,21 @@
   "symbol": "scene_20",
   "x": 820.5,
   "y": 779.5,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 18,
+        "fill": "0",
+        "border": "none",
+        "outside": "none"
+      },
+      "id": "f83c31ec-f2a7-4a03-9267-47b3c8289821"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],

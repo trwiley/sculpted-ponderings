@@ -1,25 +1,25 @@
 {
   "_resourceType": "settings",
-  "startSceneId": "69f13586-02b2-45e0-94cb-8c0885bbbfd0",
-  "startX": 33,
-  "startY": 30,
+  "startSceneId": "22a3970c-5546-4258-a461-32ec1e3c7328",
+  "startX": 0,
+  "startY": 0,
   "startMoveSpeed": 1,
   "startAnimSpeed": 15,
   "startDirection": "up",
   "showCollisionExtraTiles": false,
   "showCollisionTileValues": false,
   "collisionLayerOpacity": 50,
-  "sgbEnabled": false,
+  "sgbEnabled": true,
   "customHead": "",
   "defaultBackgroundPaletteIds": [
     "default-bg-1",
     "default-bg-2",
     "default-bg-3",
     "default-bg-4",
-    "default-bg-5",
-    "default-bg-6",
-    "dmg",
-    "default-ui"
+    "1b4db478-5cee-4ee0-a142-19f350338e74",
+    "372b9735-07ab-46a7-bcd1-485a2280e6b9",
+    "1b4db478-5cee-4ee0-a142-19f350338e74",
+    "b427e9c8-1d0c-453e-963f-92f68bdc86ab"
   ],
   "defaultSpritePaletteIds": [
     "default-sprite",

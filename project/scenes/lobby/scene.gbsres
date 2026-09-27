@@ -15,10 +15,68 @@
   "autoFadeSpeed": 1,
   "symbol": "scene_1",
   "x": 840,
-  "y": 538,
-  "script": [],
+  "y": 536,
+  "script": [
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 18,
+        "fill": "3",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "5be82551-48b1-4c78-aaef-9cae1c84e2ff"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 16,
+        "width": 4,
+        "height": 2,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "f8ad7355-2b67-49d2-b02f-68678d811749"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 16,
+        "y": 16,
+        "width": 4,
+        "height": 2,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "4eede3d7-308f-496b-84ce-f6382102595f"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 14,
+        "y": 0,
+        "width": 6,
+        "height": 4,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "d3ff537b-3e66-4dcc-baa0-5f7c7a809438"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "playerSpriteSheetId": "2c3959d3-adab-40af-b8e6-99dd780dc7ba"
+  "playerSpriteSheetId": "2c3959d3-adab-40af-b8e6-99dd780dc7ba",
+  "autoFadeEventCollapse": true
 }

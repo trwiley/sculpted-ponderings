@@ -31,7 +31,8 @@
           "a"
         ],
         "override": true,
-        "__scriptTabs": "press"
+        "__scriptTabs": "press",
+        "__collapse": true
       },
       "children": {
         "true": [
@@ -93,6 +94,19 @@
         ]
       },
       "id": "49802f3e-23d8-474f-9030-eda2a72f2a2e"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 18,
+        "fill": "0",
+        "border": "1",
+        "outside": "none"
+      },
+      "id": "72d33ca2-af06-4385-b3ee-d5eb5af419c4"
     }
   ],
   "playerHit1Script": [],

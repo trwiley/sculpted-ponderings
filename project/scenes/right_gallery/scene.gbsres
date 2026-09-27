@@ -16,7 +16,50 @@
   "symbol": "scene_3",
   "x": 1048,
   "y": 538,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 18,
+        "fill": "3",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "5270a3d2-46c4-49bf-995e-5189b493ceab"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 2,
+        "width": 4,
+        "height": 2,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "1864c037-3ccc-441d-a3b2-a30ba7ac8c10"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 16,
+        "y": 2,
+        "width": 4,
+        "height": 2,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "d20ffdab-d0a5-4f33-bbc9-5cd743f50cc5"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],

@@ -93,6 +93,19 @@
         ]
       },
       "id": "1a8a1159-4304-4377-8f99-f57ff8dd64e6"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 20,
+        "height": 18,
+        "fill": "0",
+        "border": "1",
+        "outside": "none"
+      },
+      "id": "7882bace-a222-4277-a3bb-6940e7c76c3a"
     }
   ],
   "playerHit1Script": [],
