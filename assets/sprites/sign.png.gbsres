@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "69aa4cb9-d3b3-40a4-901d-7ff8bb39153a",
+  "name": "sign",
+  "symbol": "sprite_sign",
+  "states": [
+    {
+      "id": "1e3f8544-243f-4e86-9181-b08591501c82",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "2fb0cdd0-d2e4-44ee-b9e8-517fc62ca597",
+          "frames": [
+            {
+              "id": "9d1ccc97-0c77-4768-9392-d3aa8f626abf",
+              "tiles": [
+                {
+                  "id": "d8440b1a-f8fc-4a57-9cec-0286ec127d40",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "227d1a3d-30d1-482b-b6b4-06af2e6d3092",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "309e5c2c-973b-4958-a90a-25d33020368d",
+          "frames": [
+            {
+              "id": "38e20475-725b-4cd6-973a-d49e590ee656",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "32b54812-e63e-47a7-b885-3f593d7bdba9",
+          "frames": [
+            {
+              "id": "f855e656-9b73-4b5a-a2f1-ca0fb99a500f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1cff608d-6576-46f6-a38f-806f80067a3f",
+          "frames": [
+            {
+              "id": "c5a4669a-fbe2-48e1-9a50-886fbf8de6a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f5b7fd6f-7175-4f40-8e3d-da411abe531f",
+          "frames": [
+            {
+              "id": "ac08b9f2-22aa-4503-b898-9be7f6ccd367",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f5ac0f2-a3d4-4e3b-b267-2d37b77dc904",
+          "frames": [
+            {
+              "id": "19463a31-fe33-400e-9e4d-a1942584906b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dd45b1f5-9aba-4144-97f7-3173aaa4bbe9",
+          "frames": [
+            {
+              "id": "c48fae20-9ed4-4d3f-9e9b-d36cce61d8f1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b077fd15-c485-4ac3-a2b3-66188e54d49a",
+          "frames": [
+            {
+              "id": "2b4e6c41-bdcb-4db5-a6e9-18e230f7a1a2",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "sign.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "f290a46f6efd043bee018965e8bad2705b16018a"
+}
