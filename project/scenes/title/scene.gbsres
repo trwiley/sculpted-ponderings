@@ -3,7 +3,7 @@
   "id": "22a3970c-5546-4258-a461-32ec1e3c7328",
   "_index": 20,
   "name": "Title",
-  "backgroundId": "54f5e4b3-07db-4efc-9ce4-ccfd33c863d8",
+  "backgroundId": "a7114efa-c015-4ddd-9678-e043842b864f",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -72,6 +72,20 @@
         "__collapse": false
       },
       "id": "84e53862-7597-4089-be7e-7d7fc51fe2db"
+    },
+    {
+      "command": "EVENT_SET_SGB_COLOR_AREA",
+      "args": {
+        "x": 0,
+        "y": 0,
+        "width": 3,
+        "height": 3,
+        "fill": "1",
+        "border": "none",
+        "outside": "none",
+        "__collapse": false
+      },
+      "id": "aab43ace-055d-4be4-a8b4-e3899f6b6c6b"
     }
   ],
   "playerHit1Script": [],
