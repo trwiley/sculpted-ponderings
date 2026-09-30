@@ -3,12 +3,12 @@
   "id": "6d8980bf-0f13-4095-8926-93ece61d620f",
   "name": "",
   "prefabId": "",
-  "x": 5,
-  "y": 16,
+  "x": 4,
+  "y": 14,
   "symbol": "trigger_10",
   "prefabScriptOverrides": {},
   "width": 1,
-  "height": 2,
+  "height": 4,
   "script": [
     {
       "command": "EVENT_IF_ACTOR_DIRECTION",

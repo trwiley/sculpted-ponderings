@@ -3,11 +3,11 @@
   "id": "58e6a19f-30ea-4f77-99d8-cc6ada68ab46",
   "name": "",
   "prefabId": "",
-  "x": 19,
-  "y": 8,
+  "x": 18,
+  "y": 4,
   "symbol": "trigger_20",
   "prefabScriptOverrides": {},
-  "width": 1,
+  "width": 2,
   "height": 1,
   "script": [
     {
@@ -16,7 +16,7 @@
         "actorId": "$self$",
         "direction": {
           "type": "direction",
-          "value": "down"
+          "value": "up"
         },
         "__collapseElse": true,
         "__collapse": false

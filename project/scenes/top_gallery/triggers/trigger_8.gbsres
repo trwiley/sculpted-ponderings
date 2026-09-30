@@ -4,11 +4,11 @@
   "name": "",
   "prefabId": "",
   "x": 2,
-  "y": 13,
+  "y": 11,
   "symbol": "trigger_29",
   "prefabScriptOverrides": {},
   "width": 1,
-  "height": 2,
+  "height": 4,
   "script": [
     {
       "command": "EVENT_IF_ACTOR_DIRECTION",

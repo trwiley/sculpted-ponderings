@@ -3,8 +3,8 @@
   "id": "80ff058b-9fea-4931-b985-350e97dc8e7f",
   "name": "",
   "prefabId": "",
-  "x": 18,
-  "y": 13,
+  "x": 2,
+  "y": 2,
   "symbol": "trigger_21",
   "prefabScriptOverrides": {},
   "width": 1,
@@ -16,7 +16,7 @@
         "actorId": "$self$",
         "direction": {
           "type": "direction",
-          "value": "right"
+          "value": "left"
         },
         "__collapseElse": true,
         "__collapse": false
