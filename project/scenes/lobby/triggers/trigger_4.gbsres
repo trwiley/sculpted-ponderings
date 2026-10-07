@@ -23,6 +23,20 @@
       "children": {
         "true": [
           {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "a9b89419-3a7f-46a2-85b4-03ddaaefce35",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0,
+              "__collapse": false
+            },
+            "id": "4a17f123-8f76-4899-9d8a-bf997580d6b2"
+          },
+          {
             "command": "EVENT_SWITCH_SCENE",
             "args": {
               "sceneId": "08b9fb08-a6d4-4b36-a74b-5169e9e0334a",

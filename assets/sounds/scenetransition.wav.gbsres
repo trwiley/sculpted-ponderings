@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "a9b89419-3a7f-46a2-85b4-03ddaaefce35",
+  "name": "scenetransition.wav",
+  "symbol": "sound_scenetransition_wav",
+  "type": "wav",
+  "filename": "scenetransition.wav"
+}

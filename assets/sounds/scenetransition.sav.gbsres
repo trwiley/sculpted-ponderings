@@ -1,0 +1,9 @@
+{
+  "_resourceType": "sound",
+  "id": "61077ccb-1b65-45ce-bb82-aece5fb4c2b0",
+  "name": "scenetransition.sav",
+  "symbol": "sound_scenetransition_sav",
+  "type": "fxhammer",
+  "filename": "scenetransition.sav",
+  "numEffects": 60
+}
