@@ -30,7 +30,7 @@
       "args": {
         "input": [
           "start",
-          "up"
+          "a"
         ],
         "override": true,
         "__scriptTabs": "press",
@@ -81,7 +81,7 @@
         "height": 8,
         "fill": "3",
         "border": "3",
-        "outside": "0",
+        "outside": "2",
         "__collapse": false
       },
       "id": "84e53862-7597-4089-be7e-7d7fc51fe2db"

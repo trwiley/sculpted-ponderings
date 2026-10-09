@@ -15,7 +15,7 @@
   "autoFadeSpeed": 1,
   "symbol": "scene_3",
   "x": 1048,
-  "y": 538,
+  "y": 536,
   "script": [
     {
       "command": "EVENT_SET_SGB_COLOR_AREA",

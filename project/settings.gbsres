@@ -16,17 +16,17 @@
     "default-bg-2",
     "default-bg-3",
     "default-bg-4",
-    "1b4db478-5cee-4ee0-a142-19f350338e74",
+    "8abb1fa3-d2d2-41df-a1a4-a792ca05fe1d",
     "372b9735-07ab-46a7-bcd1-485a2280e6b9",
     "1b4db478-5cee-4ee0-a142-19f350338e74",
     "b427e9c8-1d0c-453e-963f-92f68bdc86ab"
   ],
   "defaultSpritePaletteIds": [
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
+    "19031298-379e-466a-8c59-134c4c6eb815",
+    "ba59abcc-c505-41bb-9a7b-e041da93d1f2",
+    "default-bg-4",
+    "default-bg-1",
+    "40c219cd-3d35-4991-83fe-bec574395058",
     "default-sprite",
     "default-sprite",
     "default-sprite"
@@ -99,7 +99,7 @@
   "customControlsSelect": [
     "Shift"
   ],
-  "colorMode": "mono",
+  "colorMode": "mixed",
   "colorCorrection": "default",
   "generateDebugFilesEnabled": false,
   "compilerPreset": 3000,
