@@ -1,23 +1,23 @@
 {
   "_resourceType": "sprite",
-  "id": "69aa4cb9-d3b3-40a4-901d-7ff8bb39153a",
-  "name": "sign",
-  "symbol": "sprite_sign",
+  "id": "c7b4f30b-303f-4dc2-9e09-25a04ace4570",
+  "name": "statue",
+  "symbol": "sprite_statue",
   "states": [
     {
-      "id": "1e3f8544-243f-4e86-9181-b08591501c82",
+      "id": "5dbbbedc-f122-4ce6-940c-b0205666dc6d",
       "name": "",
       "animationType": "fixed",
       "flipLeft": false,
       "animations": [
         {
-          "id": "2fb0cdd0-d2e4-44ee-b9e8-517fc62ca597",
+          "id": "b521977a-19fe-4904-8050-2c437da9fe62",
           "frames": [
             {
-              "id": "9d1ccc97-0c77-4768-9392-d3aa8f626abf",
+              "id": "8a02fff5-e4e7-48f0-b947-a8bf9ef36a8b",
               "tiles": [
                 {
-                  "id": "d8440b1a-f8fc-4a57-9cec-0286ec127d40",
+                  "id": "3a741792-1690-473d-8d20-afc06e938616",
                   "x": 0,
                   "y": 0,
                   "sliceX": 0,
@@ -30,7 +30,7 @@
                   "priority": false
                 },
                 {
-                  "id": "227d1a3d-30d1-482b-b6b4-06af2e6d3092",
+                  "id": "e7912f0a-e913-430c-b74b-5ae3feec2d1d",
                   "x": 8,
                   "y": 0,
                   "sliceX": 8,
@@ -47,64 +47,64 @@
           ]
         },
         {
-          "id": "309e5c2c-973b-4958-a90a-25d33020368d",
+          "id": "a433b393-42dc-4662-bffd-8f476d47d9b5",
           "frames": [
             {
-              "id": "38e20475-725b-4cd6-973a-d49e590ee656",
+              "id": "f6d82c20-3494-4df2-bfcc-5a98f623eae7",
               "tiles": []
             }
           ]
         },
         {
-          "id": "32b54812-e63e-47a7-b885-3f593d7bdba9",
+          "id": "3ae01b97-65f7-4def-8a0e-e4169de1089e",
           "frames": [
             {
-              "id": "f855e656-9b73-4b5a-a2f1-ca0fb99a500f",
+              "id": "4c44f0d8-2cbc-40d2-9b12-6219ea0825c1",
               "tiles": []
             }
           ]
         },
         {
-          "id": "1cff608d-6576-46f6-a38f-806f80067a3f",
+          "id": "5b3da6c0-9a29-4c99-9288-bdf4782aa425",
           "frames": [
             {
-              "id": "c5a4669a-fbe2-48e1-9a50-886fbf8de6a1",
+              "id": "e0443f33-c54e-432d-96bc-a8b4eb6f11fc",
               "tiles": []
             }
           ]
         },
         {
-          "id": "f5b7fd6f-7175-4f40-8e3d-da411abe531f",
+          "id": "1d04b99e-7663-4368-83cb-7e4fbe28fba3",
           "frames": [
             {
-              "id": "ac08b9f2-22aa-4503-b898-9be7f6ccd367",
+              "id": "799c8bad-344d-4443-bfa1-af192c4dce9e",
               "tiles": []
             }
           ]
         },
         {
-          "id": "5f5ac0f2-a3d4-4e3b-b267-2d37b77dc904",
+          "id": "92585ddd-89ef-443c-a7c3-b0173c08b5cf",
           "frames": [
             {
-              "id": "19463a31-fe33-400e-9e4d-a1942584906b",
+              "id": "e3a2c2bf-98c1-4017-baff-b72ceb9daed6",
               "tiles": []
             }
           ]
         },
         {
-          "id": "dd45b1f5-9aba-4144-97f7-3173aaa4bbe9",
+          "id": "7c13891a-5f43-405a-a92b-718074c0dd96",
           "frames": [
             {
-              "id": "c48fae20-9ed4-4d3f-9e9b-d36cce61d8f1",
+              "id": "725ab0dc-4bee-4a3d-bf04-412a96a3149c",
               "tiles": []
             }
           ]
         },
         {
-          "id": "b077fd15-c485-4ac3-a2b3-66188e54d49a",
+          "id": "c22ce5d3-8324-449b-ab30-6e0e98b37692",
           "frames": [
             {
-              "id": "2b4e6c41-bdcb-4db5-a6e9-18e230f7a1a2",
+              "id": "8b4a8bd8-a1eb-4456-a0a6-0034d820723f",
               "tiles": []
             }
           ]
@@ -122,8 +122,8 @@
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
-  "filename": "sign.png",
+  "filename": "statue.png",
   "width": 16,
   "height": 16,
-  "checksum": "f290a46f6efd043bee018965e8bad2705b16018a"
+  "checksum": "1ab46696d4d8ea16758bfc61a62c8261659d1d34"
 }

@@ -1,23 +1,23 @@
 {
   "_resourceType": "sprite",
-  "id": "69aa4cb9-d3b3-40a4-901d-7ff8bb39153a",
-  "name": "sign",
-  "symbol": "sprite_sign",
+  "id": "c5d6a6b3-06c2-4d2d-888e-9bb137c6ece9",
+  "name": "tree",
+  "symbol": "sprite_tree",
   "states": [
     {
-      "id": "1e3f8544-243f-4e86-9181-b08591501c82",
+      "id": "e724e143-7132-4fa4-85ab-6e8a5123182c",
       "name": "",
       "animationType": "fixed",
       "flipLeft": false,
       "animations": [
         {
-          "id": "2fb0cdd0-d2e4-44ee-b9e8-517fc62ca597",
+          "id": "46b049d1-1cae-4e52-bcd5-799b88cd6aaf",
           "frames": [
             {
-              "id": "9d1ccc97-0c77-4768-9392-d3aa8f626abf",
+              "id": "01616823-596c-4572-84d6-ee53d9a977bc",
               "tiles": [
                 {
-                  "id": "d8440b1a-f8fc-4a57-9cec-0286ec127d40",
+                  "id": "d3e9d734-39fc-4610-8c83-bdde2bb6e364",
                   "x": 0,
                   "y": 0,
                   "sliceX": 0,
@@ -25,12 +25,12 @@
                   "flipX": false,
                   "flipY": false,
                   "palette": 0,
-                  "paletteIndex": 2,
+                  "paletteIndex": 3,
                   "objPalette": "OBP0",
                   "priority": false
                 },
                 {
-                  "id": "227d1a3d-30d1-482b-b6b4-06af2e6d3092",
+                  "id": "936b7579-3f01-43d4-ba66-c9fe4db76b3d",
                   "x": 8,
                   "y": 0,
                   "sliceX": 8,
@@ -38,7 +38,7 @@
                   "flipX": false,
                   "flipY": false,
                   "palette": 0,
-                  "paletteIndex": 2,
+                  "paletteIndex": 3,
                   "objPalette": "OBP0",
                   "priority": false
                 }
@@ -47,64 +47,64 @@
           ]
         },
         {
-          "id": "309e5c2c-973b-4958-a90a-25d33020368d",
+          "id": "6aa3b03e-773e-4330-bab0-1360873ef016",
           "frames": [
             {
-              "id": "38e20475-725b-4cd6-973a-d49e590ee656",
+              "id": "a574bee9-7188-438c-8c44-45c6d5e2a99f",
               "tiles": []
             }
           ]
         },
         {
-          "id": "32b54812-e63e-47a7-b885-3f593d7bdba9",
+          "id": "287576e8-f6b1-4d72-ae8c-06270bd40f4e",
           "frames": [
             {
-              "id": "f855e656-9b73-4b5a-a2f1-ca0fb99a500f",
+              "id": "11d730cb-8510-4231-ae95-1c307b550798",
               "tiles": []
             }
           ]
         },
         {
-          "id": "1cff608d-6576-46f6-a38f-806f80067a3f",
+          "id": "535774ed-f190-4d19-a857-ff8bc679c138",
           "frames": [
             {
-              "id": "c5a4669a-fbe2-48e1-9a50-886fbf8de6a1",
+              "id": "3982254c-7318-4b6e-8ae4-e03ff9c9b9f9",
               "tiles": []
             }
           ]
         },
         {
-          "id": "f5b7fd6f-7175-4f40-8e3d-da411abe531f",
+          "id": "44344817-63bf-43e8-9346-e5d1e7bbc37d",
           "frames": [
             {
-              "id": "ac08b9f2-22aa-4503-b898-9be7f6ccd367",
+              "id": "92098f35-0df8-4e57-b848-1957097ce46d",
               "tiles": []
             }
           ]
         },
         {
-          "id": "5f5ac0f2-a3d4-4e3b-b267-2d37b77dc904",
+          "id": "d15bba62-23c1-4be2-bb72-eef7d76519f8",
           "frames": [
             {
-              "id": "19463a31-fe33-400e-9e4d-a1942584906b",
+              "id": "6b2256d8-2ba4-43c3-84e0-e90f4bb70a60",
               "tiles": []
             }
           ]
         },
         {
-          "id": "dd45b1f5-9aba-4144-97f7-3173aaa4bbe9",
+          "id": "54b62cbb-4757-4441-8ebe-2d08e05fcd57",
           "frames": [
             {
-              "id": "c48fae20-9ed4-4d3f-9e9b-d36cce61d8f1",
+              "id": "4248a5f2-2cc5-498b-a298-460e0203170d",
               "tiles": []
             }
           ]
         },
         {
-          "id": "b077fd15-c485-4ac3-a2b3-66188e54d49a",
+          "id": "a03eaa67-fcd8-47a8-9808-87708971f6e3",
           "frames": [
             {
-              "id": "2b4e6c41-bdcb-4db5-a6e9-18e230f7a1a2",
+              "id": "21c428c2-4ae8-42d4-8283-7ec10e4de7af",
               "tiles": []
             }
           ]
@@ -122,8 +122,8 @@
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
-  "filename": "sign.png",
+  "filename": "tree.png",
   "width": 16,
   "height": 16,
-  "checksum": "f290a46f6efd043bee018965e8bad2705b16018a"
+  "checksum": "8ee63579fbd2f14ce2649e0e2c44b79332ea235c"
 }

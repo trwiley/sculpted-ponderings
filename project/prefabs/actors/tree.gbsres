@@ -1,0 +1,22 @@
+{
+  "_resourceType": "actorPrefab",
+  "id": "98045285-0770-42d9-83bf-2e6b9f7c603c",
+  "name": "Tree",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "c5d6a6b3-06c2-4d2d-888e-9bb137c6ece9",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [
+    "solid"
+  ],
+  "script": [],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": []
+}
