@@ -29,6 +29,13 @@
         "outside": "none"
       },
       "id": "f83c31ec-f2a7-4a03-9267-47b3c8289821"
+    },
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "4c850c67-35ca-496b-90ec-567040fe1472"
+      },
+      "id": "85536965-dad7-4db7-b3d7-c585539d41ff"
     }
   ],
   "playerHit1Script": [],
